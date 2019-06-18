@@ -1,0 +1,6 @@
+[info]
+title=Linter for CoffeeScript, using 'coffee-jshint'
+desc=Linter for CudaLint, adds support for CoffeeScript lexer, using 'coffee-jshint'
+type=cudatext-plugin
+subdir=cuda_lint_coffee_jshint
+homepage=https://github.com/medvosa/cuda_lint_coffee_jshint/

@@ -1,7 +1,6 @@
 """This module exports the CoffeeJshint plugin class."""
 
 from cuda_lint import Linter, util
-from cudatext import *
 
 class CoffeeJshint(Linter):
 

@@ -5,5 +5,6 @@ Linter for CudaLint plugin. It adds support for CoffeeScript lexer. It uses "cof
 Install NodeJS
 Install CoffeeScript
 npm install coffeescript
+npm install coffee-jshint
 
 License: MIT

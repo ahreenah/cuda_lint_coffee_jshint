@@ -2,10 +2,15 @@ Linter for CudaLint plugin. It adds support for CoffeeScript lexer. It uses "cof
 
 'coffee-jshint' must be in your system PATH.
 
-Install NodeJS
-Install CoffeeScript
-npm install coffeescript
-npm install coffee-jshint
+How to install:
+  Install NodeJS
+    run following command in your terminal:
+    $ sudo apt-get install node
+  Install CoffeeScript
+    $ npm install coffeescript
+    $ npm install coffee-jshint
+
+If you are not using Ubuntu or debian then you should use another installation method
 
 Author: Medvosa
 
